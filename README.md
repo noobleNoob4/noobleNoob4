@@ -5,7 +5,7 @@ I am a 4th year student at Istanbul Bilgi University, Department of Digital Game
 
 Skills: Unity,C#
 
-- 🔭 I’m currently working on Graduation Project 
+- 🔭 I’m currently working on Graduation Project and I am looking for an internship.
 - 🌱 I’m currently learning Observer Design Pattern 
 
 
